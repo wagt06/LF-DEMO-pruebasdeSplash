@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+  <item>
+    <color android:color="@color/splash_background"/>
+  </item>
+  <item
+    android:left="20dp"
+    android:right="20dp">
+    <bitmap
+        android:width="200dp"
+        android:height="200dp"
+        android:src="@drawable/logo_paisas"
+        android:tileMode="disabled"
+        android:gravity="center"/>
+  </item>
+</layer-list>
